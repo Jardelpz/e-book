@@ -1,0 +1,3 @@
+pygame
+tk-tools
+PyPDF2
